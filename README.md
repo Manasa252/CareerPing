@@ -8,3 +8,7 @@ CareerPing is a modern web app that helps students manage job applications, trac
 - 📈 **Dashboard**: Real-time stats, progress bars, and deadline overview.
 - 🎨 **Modern UI**: Responsive design, dark mode, animations, and accessibility support.
 - 💾 **Local Storage**: Works offline, no server or database needed.
+- 
+## 🌐 Live Demo
+
+🔗 https://career-ping.vercel.app/
